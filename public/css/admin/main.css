@@ -1,0 +1,28 @@
+/*Main css*/
+.main-header .sidebar-toggle:before {
+    content: "";
+}
+
+.main-header .sidebar-toggle {
+    padding: 10px 15px;
+}
+
+/*Alert*/
+.alert-success {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 100;
+}
+textarea {
+    height: 100px;
+}
+
+.product-image {
+    width: 70px;
+    height: 70px;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+	background: #dd4b39;
+}
